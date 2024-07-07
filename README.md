@@ -7,3 +7,5 @@ Taslim A Hussain
 
 ## How to use GitHub Desktop
 
+- [ ] [Add a new repository](https://desktop.github.com/)
+
